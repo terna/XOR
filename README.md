@@ -1,0 +1,1 @@
+XOR didactical neural network.
